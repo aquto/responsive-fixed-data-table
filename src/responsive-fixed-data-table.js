@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { findDOMNode } from 'react-dom';
-import { Table } from 'fixed-data-table';
+import { Table } from 'fixed-data-table-2';
 import debounce from 'lodash/debounce';
 import assign from 'lodash/assign';
 import isEqual from 'lodash/isEqual';

@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { render } from 'react-dom';
-import { Column, Cell } from 'fixed-data-table';
+import { Column, Cell } from 'fixed-data-table-2';
 import ResponsiveFixedDataTable from 'responsive-fixed-data-table';
 
 const data = [

@@ -45,11 +45,11 @@ module.exports = {
 			commonjs: 'react-dom',
 			amd: 'react-dom'
 		},
-		'fixed-data-table': {
+		'fixed-data-table-2': {
 			root: 'FixedDataTable',
-			commonjs2: 'fixed-data-table',
-			commonjs: 'fixed-data-table',
-			amd: 'fixed-data-table'
+			commonjs2: 'fixed-data-table-2',
+			commonjs: 'fixed-data-table-2',
+			amd: 'fixed-data-table-2'
 		}
 	},
 	resolve: {

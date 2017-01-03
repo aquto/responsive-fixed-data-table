@@ -29,7 +29,7 @@
     "lodash": "^4.3.0"
   },
   "peerDependencies": {
-    "fixed-data-table": ">=0.6.0",
+    "fixed-data-table-2": ">=0.6.0",
     "react": ">=0.14",
     "react-dom": ">=0.14"
   },
@@ -42,7 +42,7 @@
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-1": "^6.5.0",
     "cross-env": "^1.0.7",
-    "fixed-data-table": "^0.6.0",
+    "fixed-data-table-2": "^0.6.0",
     "jasmine-core": "^2.4.1",
     "karma": "^0.13.21",
     "karma-chrome-launcher": "^0.2.2",

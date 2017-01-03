@@ -11,7 +11,7 @@ var gulp           = require('gulp'),
 var paths = {
 	mainHtml:   './src/index.html',
 	mainJs:     './src/responsive-table-example.js',
-	fixedDataTableCss: './node_modules/fixed-data-table/dist/fixed-data-table.min.css'
+	fixedDataTableCss: './node_modules/fixed-data-table-2/dist/fixed-data-table.min.css'
 };
 
 var buildPaths = {

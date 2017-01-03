@@ -13,7 +13,7 @@ This module includes minified and non minified UMD builds as well as an ES6 buil
 ```js
 import React from 'react';
 import ResponsiveFixedDataTable from 'responsive-fixed-data-table';
-import { Column } from 'fixed-data-table';
+import { Column } from 'fixed-data-table-2';
 
 export default class ResponsiveTable extends React.Component {
 	render() {
